@@ -1,5 +1,5 @@
 {
-  "name": "sharedb-access",
+  "name": "k-sharedb-access",
   "version": "3.0.0",
   "description": "Sharedb access-control midleware",
   "main": "lib/index.js",
